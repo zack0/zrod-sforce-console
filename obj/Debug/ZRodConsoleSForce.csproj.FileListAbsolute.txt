@@ -1,0 +1,6 @@
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\bin\Debug\ZRodConsoleSForce.exe.config
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\obj\Debug\ZRodConsoleSForce.csprojResolveAssemblyReference.cache
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\bin\Debug\ZRodConsoleSForce.exe
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\bin\Debug\ZRodConsoleSForce.pdb
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\obj\Debug\ZRodConsoleSForce.exe
+c:\users\zackr\documents\visual studio 2015\Projects\ZRodConsoleSForce\ZRodConsoleSForce\obj\Debug\ZRodConsoleSForce.pdb
